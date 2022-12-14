@@ -1,7 +1,12 @@
 # CLI_banking_app
 Command line interface based banking application
 
-1.Download the dist folder and run the .exe file
+1.Download the dist folder and run the .exe file from path:
+  dist/CLI_banking_app/CLI_banking_app.exe
+  
+  OR
+  
+  run the CLI_banking_app.py file
 
 2.Command Samples are:
 
