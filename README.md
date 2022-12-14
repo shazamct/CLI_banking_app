@@ -1,7 +1,7 @@
 # CLI_banking_app
 Command line interface based banking application
 
-1.Download the .exe and run
+1.Download the dist folder and run the .exe file
 
 2.Command Samples are:
 
