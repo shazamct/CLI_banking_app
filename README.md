@@ -26,4 +26,6 @@ BALANCE ACC002
 
 BALANCE ACC001
 
-3.Commands are case insensitive
+3.Commands are case insensitive.
+
+4.Press Enter to exit the app.
