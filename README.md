@@ -4,6 +4,7 @@ Command line interface based banking application
 1.Download the .exe and run
 
 2.Command Samples are:
+
 CREATE ACC001 KELP
 
 DEPOSIT ACC001 10000
